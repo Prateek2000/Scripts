@@ -1,0 +1,1 @@
+to start a remote socks session with the proxy server I had at the time, and then open a chrome window which was tunnelling traffic to the VPS.
