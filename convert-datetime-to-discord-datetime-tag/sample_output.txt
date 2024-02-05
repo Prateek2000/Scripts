@@ -1,0 +1,14 @@
+Enter time to convert in 'YYYY-MM-DDThh:mm:ss�aa:bb' where T is the letter 'T', and aa:bb is the time zone offset from UTC:
+_________________________________________________________________
+|			            |					                    |
+| Paste this 		    | To get this (in the viewer's time)	|
+|_______________________|_______________________________________|
+|			            |					                    |
+| <t:1707150600:d> 	    | DD/MM/YYYY			                |
+| <t:1707150600:D> 	    | DD Month YYYY				            |
+| <t:1707150600:t> 	    | hh:mm					                |
+| <t:1707150600:T> 	    | hh:mm:ss				                |
+| <t:1707150600:f> 	    | DD Month YYYY hh:mm			        |
+| <t:1707150600:F> 	    | Day, DD Month YYYY hh:mm		        |
+| <t:1707150600:R> 	    | X minutes ago / in X minutes		    |
+|_______________________|_______________________________________|
